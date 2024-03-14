@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "ipesaudeapp",
+    "slug": "ipesaudeapp",
+    "owner": "ipesaudeapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "backgroundColor": "#FFFFFF",
+    "plugins": [
+      "@notifee/react-native"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "9ff9528f-d40d-435c-9a03-9618d666e090"
+      }
+    },
+    "android": {
+      "package": "com.ipesaudeapp.app"
+    }
+  }
+}

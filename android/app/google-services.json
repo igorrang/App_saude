@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473929146651",
+    "project_id": "ipesaudeapp-b9b06",
+    "storage_bucket": "ipesaudeapp-b9b06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473929146651:android:59cbeaecaf529e1267b3be",
+        "android_client_info": {
+          "package_name": "com.ipesaudeapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473929146651-e7anek29j6bp8iull4iibr3btspooklo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWu0RG3cku-vU1quU71W6aVOu4UKMq38c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473929146651-e7anek29j6bp8iull4iibr3btspooklo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
